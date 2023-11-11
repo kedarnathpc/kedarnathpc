@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)
 <h1 align="center">Hi 👋, I'm Kedarnath Chavan</h1>
-<h4 align="center">A passionate Backend developer from India with a love for all things Golang, Linux, and open source. My coding journey often involves diving into the realms of C and C++, crafting efficient solutions. I thrive in the cloud, navigating AWS landscapes and orchestrating with Docker. When not in code, you'll find me scripting away in Bash or exploring the endless possibilities of cloud computing. Let's build something amazing together!</h4>
+<h4 align="center">Passionate Backend developer from India, specializing in Golang, Linux, and open source. Proficient in C/C++, adept in AWS, Docker orchestration. Bash scripting enthusiast. Let's build something amazing together!</h4>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 - 🔭 I’m currently working on [JWT Authentication in Golang](https://github.com/kedarnathpc/go-authentication)

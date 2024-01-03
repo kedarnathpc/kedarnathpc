@@ -5,7 +5,7 @@
 [![Live](https://img.shields.io/badge/Country-India-success)]()
 [![Lang](https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen)]()
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)
+![MasterHead](https://user-images.githubusercontent.com/57249574/185354478-7505e3da-efb5-4016-99d2-164f8edff33e.jpg)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Kedarnath Chavan</h1>
 <h3 align="center">Passionate Backend developer from India</h3>

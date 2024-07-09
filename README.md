@@ -42,16 +42,6 @@
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Projects 🔥</b></i></p>
-
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=kedarnathpc&theme=gotham&repo=load-balancer)](https://github.com/kedarnathpc/load-balancer) | [![](https://github-readme-stats.vercel.app/api/pin/?username=kedarnathpc&theme=gotham&repo=6Companies30Days)](https://github.com/kedarnathpc/6Companies30Days) |
-| -- | -- |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=kedarnathpc&theme=gotham&repo=go-postgres)](https://github.com/kedarnathpc/go-postgres) | [![](https://github-readme-stats.vercel.app/api/pin/?username=kedarnathpc&theme=gotham&repo=go-authentication)](https://github.com/kedarnathpc/go-authentication) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=kedarnathpc&theme=gotham&repo=taskline)](https://github.com/kedarnathpc/taskline) | [![](https://github-readme-stats.vercel.app/api/pin/?username=kedarnathpc&theme=gotham&repo=go-email-verifier)](https://github.com/kedarnathpc/go-email-verifier) | 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=kedarnathpc&theme=gotham&repo=go-quiz-game)](https://github.com/kedarnathpc/go-quiz-game) | [![](https://github-readme-stats.vercel.app/api/pin/?username=kedarnathpc&theme=gotham&repo=go-url-shortener)](https://github.com/kedarnathpc/go-url-shortener) |
-
-
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 

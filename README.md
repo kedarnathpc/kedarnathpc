@@ -12,25 +12,18 @@
 
 
 ### About Me
-- 🔭 I’m currently working on [Load balancer in Golang](https://github.com/kedarnathpc/load-balancer)
-
-- 🌱 I’m currently learning **Cloud Computing, Practising Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on **Openstack**
-
-- 🤝 I’m looking for help with **Openstack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kedarnathpc](https://github.com/kedarnathpc)
 
-- 💬 Ask me about **Linux, Cloud, AWS**
+- 💬 Ask me about **Linux, Cloud, DevOps,AWS**
 
 - 📫 How to reach me **kedarnathpc2002@gmail.com**
 
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Competitive Programming  & DSA Activeness 🔥</b></i></p>
 
-| [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kedarnathpc) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kedarnathpc/) | [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/kedarnathpc/) | [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kedarnathpc) | [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-FFA500?style=for-the-badge&logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/studio/profile/kedarnathpc) |
-| --- | --- | --- | --- | --- |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kedarnathpc) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kedarnathpc/) | [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/kedarnathpc/) | [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kedarnathpc) | [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-FFA500?style=for-the-badge&logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/studio/profile/kedarnathpc) | [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/kedarnathpc)
+| --- | --- | --- | --- | --- | --- |
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <p align="center">
@@ -48,6 +41,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness 🔥</b></i></p>
 
-| ![Kedarnath's Stats](https://github-readme-stats.vercel.app/api?username=kedarnathpc&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)| ![Kedarnath's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kedarnathpc&theme=radical) |
-| --- | --- |
-| <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarnathpc&langs_count=9&hide=vba&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Kumar"/></p> |
+
+
+| ![Kedarnath's Stats](https://github-readme-stats.vercel.app/api?username=kedarnathpc&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)| <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarnathpc&langs_count=9&hide=vba&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Kumar"/></p> |
+| --- | --- | 
